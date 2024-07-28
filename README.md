@@ -1,16 +1,24 @@
-# weather_app
+# Weather App - Flutter
+This is a simple weather app built using Flutter framework. It utilizes a weather API to fetch and display weather information such as temperature, pressure, humidity, and wind speed for a particular region.
 
-A new Flutter project.
+## Features
+View current weather information for a specified location.
+Display temperature in Celsius or Fahrenheit.
+Get details like pressure, humidity, and wind speed.
+Clean and user-friendly interface.
+Configuration
+Before running the app, make sure to obtain an API key from a weather API provider and replace the placeholder YOUR_API_KEY in lib/services/weather_service.dart with your actual API key.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![weather app ](https://github.com/piyush15102003/weather-app-flutter-/assets/116540990/304ac2ca-b787-4eac-bcc3-c95719f960e1)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+Weather data provided by Weather API.
