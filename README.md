@@ -11,7 +11,7 @@ Before running the app, make sure to obtain an API key from a weather API provid
 
 ## Screenshots
 
-![weather app ](https://github.com/piyush15102003/weather-app-flutter-/assets/116540990/304ac2ca-b787-4eac-bcc3-c95719f960e1)
+https://github.com/piyush15102003/weather-app-/issues/1#issue-2433836871
 
 
 ## Contributing
